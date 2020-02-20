@@ -9,4 +9,4 @@
 
 <h3 align="center">Self-Taught Programming</h3>
 
-<h4 align="center">Understanding All gitMajor Data Structures and Algorithms</h4>
+<h4 align="center">Understanding All Major Data Structures and Algorithms</h4>
